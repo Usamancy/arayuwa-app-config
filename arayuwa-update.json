@@ -1,0 +1,8 @@
+{
+  "latestVersion": "1.0.0",
+  "minimumVersion": "1.0.0",
+  "forceUpdate": false,
+  "message": "A new version of Arayuwa is available with exciting improvements and new features.",
+  "androidUrl": "https://play.google.com/store/apps/details?id=YOUR_ANDROID_PACKAGE",
+  "iosUrl": "YOUR_APP_STORE_URL"
+}

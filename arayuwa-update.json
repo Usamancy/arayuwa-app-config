@@ -2,7 +2,14 @@
   "latestVersion": "1.0.0",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "A new version of Arayuwa is available. Update now to enjoy the latest features and improvements.",
+  "messages": {
+    "en": "A new version of Arayuwa is available. Update now to enjoy the latest features and improvements.",
+    "ha": "Akwai sabon sigar Arayuwa. Sabunta yanzu domin jin daɗin sabbin fasaloli da ingantawa.",
+    "ar": "يتوفر إصدار جديد من أرايووا. حدّث التطبيق الآن للاستمتاع بأحدث الميزات والتحسينات.",
+    "fr": "Une nouvelle version d'Arayuwa est disponible. Mettez l'application à jour pour profiter des dernières fonctionnalités et améliorations.",
+    "hi": "Arayuwa का नया संस्करण उपलब्ध है। नवीनतम सुविधाओं और सुधारों का आनंद लेने के लिए अभी अपडेट करें।",
+    "la": "Nova versio Arayuwae praesto est. Nunc renova ut novis functionibus et meliorationibus fruaris."
+  },
   "androidUrl": "https://play.google.com/store/apps/details?id=YOUR_ANDROID_PACKAGE_ID",
   "iosUrl": "YOUR_APP_STORE_LISTING_URL"
 }
